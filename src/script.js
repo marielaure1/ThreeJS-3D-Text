@@ -41,7 +41,8 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font) => {
         const textGeometry = new TextGeometry(
-            "Marie-Laure Edjour",
+            "Marie-Laure Edjour
+            Développeuse web",
             {
                 font: font,
                 size: 0.5,
